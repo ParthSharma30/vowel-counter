@@ -1,4 +1,4 @@
-# Vowel Checker Application
+# Vowel Counter Application
 
 A simple yet visually appealing web application that counts vowels in user-provided text. This project demonstrates fundamental JavaScript programming concepts, DOM manipulation, and modern CSS styling with animations.
 
